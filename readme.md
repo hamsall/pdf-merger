@@ -6,7 +6,7 @@ python
 
 ## instructions 
 
-### In your project folder:
+### In your project folder (via a command terminal)
 python -m venv venv  # Creates virtual environment in 'venv' folder
 .\venv\Scripts\activate  # Activates the environment
 pip install -r requirements.txt  # Installs dependency ONLY in the virtual environment
