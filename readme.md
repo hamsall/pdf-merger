@@ -4,6 +4,8 @@ A pdf merger for windows with instruction on setting up a virtual environment
 ## requirements 
 python 
 
+## instructions 
+
 ### In your project folder:
 python -m venv venv  # Creates virtual environment in 'venv' folder
 .\venv\Scripts\activate  # Activates the environment
